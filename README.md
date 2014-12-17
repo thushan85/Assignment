@@ -23,6 +23,8 @@ For more details see Laraavel documention (http://laravel.com/docs/4.2/installat
 
  b. Create a vhost on apache
  
+ 4. run following command on your terminal to download dependemcies
+    composer update
  
 Plase Note: ER Diagram contains in Diagrams folder
  
