@@ -10,7 +10,7 @@ I'm working on Ubuntu so this project has developed in Ubuntu.
 For more details see Laraavel documention (http://laravel.com/docs/4.2/installation)
 
 
-Please go through following steps to setup the project.
+#Please go through following steps to setup the project.
 
 1. Database backup contains in db_sql folder (assignment/db_sql) 
 
